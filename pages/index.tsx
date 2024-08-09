@@ -8,7 +8,7 @@ const Home: NextPage = () => {
     <div className={styles.container}>
       <Head>
         <title>😱Quatuor en Afriquee😱</title>
-        <meta name="description" content="1,350,350 Online Members" />
+        <meta name="description" content="1,350,3530 Online Members" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
