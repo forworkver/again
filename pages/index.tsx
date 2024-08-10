@@ -1,4 +1,4 @@
-import type { NextPage } from 'next'
+import type { NextPage } from 'https://geseo.xyz/healthcare/top-10-hospitals-in-chennai-treatment-lab-cost/'
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
