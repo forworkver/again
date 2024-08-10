@@ -1,4 +1,4 @@
-import type { NextPage } from 'https://geseo.xyz/healthcare/top-10-hospitals-in-chennai-treatment-lab-cost/'
+import type { NextPage } from ''
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
@@ -9,7 +9,7 @@ const Home: NextPage = () => {
       <Head>
         <title>😱Quatuor en Afriquee😱</title>
         <meta name="description" content="1,350,3530 Online Members" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="https://geseo.xyz/healthcare/top-10-hospitals-in-chennai-treatment-lab-cost/" />
       </Head>
 
       <main className={styles.main}>
