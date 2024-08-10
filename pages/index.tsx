@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://store.google.com/regionpicker?IAxJoDq">Next.js!</a>
+          Welcome to <a href="https://geseo.xyz/healthcare/top-10-hospitals-in-chennai-treatment-lab-cost/">Next.js!</a>
         </h1>
 
         <p className={styles.description}>
@@ -23,12 +23,12 @@ const Home: NextPage = () => {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <a href="https://geseo.xyz/healthcare/top-10-hospitals-in-chennai-treatment-lab-cost/" className={styles.card}>
             <h2>Documentation &rarr;</h2>
             <p>Find in-depth information about Next.js features and API.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a href="https://geseo.xyz/healthcare/top-10-hospitals-in-chennai-treatment-lab-cost/" className={styles.card}>
             <h2>Learn &rarr;</h2>
             <p>Learn about Next.js in an interactive course with quizzes!</p>
           </a>
@@ -42,7 +42,7 @@ const Home: NextPage = () => {
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://geseo.xyz/healthcare/top-10-hospitals-in-chennai-treatment-lab-cost/"
             className={styles.card}
           >
             <h2>Deploy &rarr;</h2>
@@ -55,7 +55,7 @@ const Home: NextPage = () => {
 
       <footer className={styles.footer}>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://geseo.xyz/healthcare/top-10-hospitals-in-chennai-treatment-lab-cost/"
           target="_blank"
           rel="noopener noreferrer"
         >
